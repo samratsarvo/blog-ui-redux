@@ -15,4 +15,4 @@ Designed a project to showcase user information and list out the posts, comments
 ### HEROKU
 
 
-https://git.heroku.com/blog-ui-heroku.git
+[blog-ui-react-redux](https://git.heroku.com/blog-ui-heroku.git)
