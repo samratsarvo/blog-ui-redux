@@ -12,3 +12,7 @@ Designed a project to showcase user information and list out the posts, comments
 * redux-thunk
 * bootstrap
 
+### HEROKU
+
+
+https://git.heroku.com/blog-ui-heroku.git
